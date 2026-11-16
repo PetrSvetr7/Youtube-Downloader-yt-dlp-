@@ -15,7 +15,7 @@ A dark-themed desktop app for downloading videos and audio using [yt-dlp](https:
 ## Quick Start
 
 ### 1. Download the App
-* **[Click here to download `yt_downloader.py`](https://github.com/<your-username>/<your-repo-name>/releases/latest/download/yt_downloader.py)** *(or right-click the link and choose **Save Link As...**)*
+* **[Click here to download `yt_downloader.py`](https://github.com/PetrSvetr7/Youtube-Downloader-yt-dlp-/releases/latest/download/yt_downloader.py)** *(or right-click the link and choose **Save Link As...**)*
 
 ### 2. Install Requirements
 Make sure you have **Python 3.9+** installed, then open a terminal / command prompt and run:
