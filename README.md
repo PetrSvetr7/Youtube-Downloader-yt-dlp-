@@ -1,7 +1,7 @@
 # Youtube-Downloader-yt-dlp-
 A simple app for downloading videos off of youtube for free.
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](screenshot.png)
 
 ## Features
 
